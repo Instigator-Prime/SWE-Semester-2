@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    printf("I     /\n");
+    printf("I    /\n");
+    printf("I   /\n");
+    printf("I  /\n");
+    printf("I /\n");
+    printf("I/\n");
+
+    return 0;
+}
